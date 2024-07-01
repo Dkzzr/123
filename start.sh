@@ -65,7 +65,7 @@ http_access allow all
  
 # Squid normally listens to port 3128
 #http_port 3128
-http_port 888
+http_port 59394
 via off
 forwarded_for delete
  
